@@ -1,3 +1,5 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=2uent1n&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=850&hide_total_contributions=true)
+
 ### About me
 
 Student in computer science, currently on a gap year gaining hands-on experience in Full Stack Development.
