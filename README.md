@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=2uent1n&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=850&hide_total_contributions=true)
+![](https://streak-stats.demolab.com?user=2uent1n&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=850&hide_total_contributions=true)
 
 ### About me
 
@@ -32,17 +32,17 @@ Student in computer science, currently on a gap year gaining hands-on experience
 - **CI/CD & Deployment:** **Docker** and **GitHub Actions**.
 
 #### [Obsidian plugin to tag notes methodically](https://github.com/2uent1n/tag-pilot)
-![](https://skillicons.dev/icons?i=obsidian,svelte,ts,html,css)
+![](https://skillicons.dev/icons?i=obsidian,svelte,tailwind,ts,html,css)
 - Developed using **Svelte** and **TypeScript**.
-- Styled with **UnoCSS**.
+- Styled with **TailwindCSS**.
 
 #### [Mobile application for consistent daily and weekly journaling](https://github.com/2uent1n/lunadir)
-![](https://skillicons.dev/icons?i=kotlin,ktor,mongodb,gradle)
+![](https://skillicons.dev/icons?i=kotlin,ktor,postgres,gradle)
 - **Mobile Application:** Built with **Kotlin** using **Compose Multiplatform**.
-- **Backend:** Uses **Ktor** and **MongoDB**.
+- **Backend:** Uses **Ktor** and **PostgreSQL**.
 
-#### Slack App for picking PR's reviewers
-- Built in **Python**.
+#### [Slack App for picking PR's reviewers](https://github.com/2uent1n/entropick)
+- Built in **Python** using the **Bolt** framework.
 
 ---
 
