@@ -34,7 +34,7 @@ Student in computer science, currently on a gap year gaining hands-on experience
 #### [Obsidian plugin to tag notes methodically](https://github.com/2uent1n/tag-pilot)
 ![](https://skillicons.dev/icons?i=obsidian,svelte,tailwind,ts,html,css)
 - Developed using **Svelte** and **TypeScript**.
-- Styled with **TailwindCSS**.
+- Styled with **Tailwind CSS**.
 
 #### [Mobile application for consistent daily and weekly journaling](https://github.com/2uent1n/lunadir)
 ![](https://skillicons.dev/icons?i=kotlin,ktor,postgres,gradle)
