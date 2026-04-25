@@ -1,47 +1,36 @@
 ### About me
 
-Student in Computer Science and Cybersecurity, with experience in Full Stack Development.
+Final-year student at CentraleSupélec, majoring in Cybersecurity. Currently doing my end-of-studies internship as a Software Engineer at Datadog.
 
 ---
 
-### Practical experience _(internships)_
-![](https://skillicons.dev/icons?i=angular,express,postgres,sequelize,vitest,cypress,ts,html,css,py,docker)
-- **Frontend Development:** Developing a frontend application using **Angular** (**TypeScript**, **HTML**, **CSS**).
-- **Backend Development:** Building APIs with **Express**, interacting with a **PostgreSQL** database using **Sequelize**.
-- **Data Processing:** Working on ETL pipelines in **Python** (BeautifulSoup, Scrapy/XPath).
-- **Testing:** Writing unit and integration tests with **Vitest**, and end-to-end tests with **Cypress**.
-- **Containerization:** Working with **Docker** and **Docker Compose** for containerized service development.
+### Experience
+
+- **Software Engineer Intern at Datadog** *(current)*
+- **Full Stack Developer Intern at padoa** — Angular, Express, PostgreSQL, Vitest, Cypress
+- **Backend Engineer Intern at bport** — Python, PostgreSQL, Docker
 
 ---
 
-### Side projects for learning and experimenting
+### Projects
+
+#### [Fos-R — GUI for network traffic generation](https://github.com/Fos-R/Fos-R)
+
+I worked on Fos-R as part of an academic project with another student. We built a cross-platform GUI for configuring and visualizing network topologies and generating traffic. I mainly focused on the visualization and traffic generation view, and also contributed to the configuration panel.
+
+- Built in **Rust** with [egui](https://github.com/emilk/egui), cross-platform with **WASM** support for integration into the [Fos-R website](https://fosr.inria.fr).
+- Interactive network topology viewer with animated traffic flow simulation between hosts.
+- Generation controls to produce synthetic traffic as a PCAP file.
+- Configuration panel for defining network hosts, subnets, and services.
+
+![Fos-R GUI — Network topology visualization](assets/fosr-gui-1.png)
+![Fos-R GUI — Configuration panel](assets/fosr-gui-2.png)
 
 #### SaaS solution for the pastry and bakery industry _(private repository)_
-![](https://skillicons.dev/icons?i=angular,nestjs,postgres,tailwind,vitest,ts,html,css,pnpm,docker,githubactions)
 
-_This project serves as a **learning-first initiative**, designed with an enterprise mindset from the start. Although currently working towards a small-scale MVP, the architecture is deliberately **over-engineered** to ensure **robustness**, **maintainability**, and **scalability**. It's a hands-on application of advanced software design patterns, providing me with transferable skills for building large-scale, resilient applications._
+I'm building a SaaS solution for the pastry and bakery industry as a learning project, exploring full-stack development and software architecture.
 
-- **Frontend:** Built with **Angular**, styled using **Tailwind CSS** and Taiga UI (component library).
-- **Backend:** Using **NestJS**, **PostgreSQL** with **TypeORM**, and **Swagger** for API documentation.
-- **Testing:** Integrates unit/integration tests with **Vitest** and end-to-end tests with **Playwright**.
-- **CI/CD & Deployment:** Leverages **Docker** for containerization and **GitHub Actions** for CI/CD.
-- **Architecture**: A **monorepo** built on principles of **Clean Architecture**, **Domain-Driven Design (DDD)**, and **Hexagonal Architecture**.
-
-#### [Mobile application for consistent daily and weekly journaling](https://github.com/2uent1n/lunadir)
-![](https://skillicons.dev/icons?i=kotlin,spring,postgres,gradle)
-
-_This project is my way of getting more familiar with the **Kotlin** language and the **Spring Boot** framework. It's also an opportunity to explore **cross-platform mobile development**._
-
-- **Backend**: I've started building the API with **Spring Boot** and **Kotlin**, connected to a **PostgreSQL** database. 
-- **Mobile Application**: I plan to build the mobile app using **Compose Multiplatform**.
----
-
-### Fundamentals learned in school
-![](https://skillicons.dev/icons?i=c,rust,java,py,linux)
-- **Low-level Programming**: C and Rust
-- **Object-Oriented Programming**: Java
-- **General Purpose Programming**: Python
-- **Operating Systems Fundamentals**
-- **Computer Architecture**: RISC-V and x86
-- **Relational Databases and SQL Fundamentals**
-- **IoT Fundamentals**: RTOS, communication protocols
+- **Frontend:** Angular with Tailwind CSS.
+- **Backend:** NestJS, PostgreSQL, TypeORM.
+- **Testing:** Vitest, Playwright.
+- **DevOps:** Docker, GitHub Actions CI/CD.
