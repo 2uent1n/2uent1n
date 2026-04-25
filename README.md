@@ -23,8 +23,9 @@ I worked on Fos-R as part of an academic project with another student. We built 
 - Generation controls to produce synthetic traffic as a PCAP file.
 - Configuration panel for defining network hosts, subnets, and services.
 
-![Fos-R GUI — Network topology visualization](assets/fosr-gui-1.png)
-![Fos-R GUI — Configuration panel](assets/fosr-gui-2.png)
+| Network topology visualization | Configuration panel |
+|:--:|:--:|
+| ![](assets/fosr-gui-1.png) | ![](assets/fosr-gui-2.png) |
 
 #### SaaS solution for the pastry and bakery industry _(private repository)_
 
