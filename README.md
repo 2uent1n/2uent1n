@@ -26,12 +26,3 @@ I worked on Fos-R as part of an academic project with another student. We built 
 | Network topology visualization | Configuration panel |
 |:--:|:--:|
 | ![](assets/fosr-gui-1.png) | ![](assets/fosr-gui-2.png) |
-
-#### SaaS solution for the pastry and bakery industry _(private repository)_
-
-I'm building a SaaS solution for the pastry and bakery industry as a learning project, exploring full-stack development and software architecture.
-
-- **Frontend:** Angular with Tailwind CSS.
-- **Backend:** NestJS, PostgreSQL, TypeORM.
-- **Testing:** Vitest, Playwright.
-- **DevOps:** Docker, GitHub Actions CI/CD.
